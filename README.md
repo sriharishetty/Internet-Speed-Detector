@@ -1,4 +1,5 @@
 Internet Speed Detector
+
 This project is a simple internet speed detector built with HTML, CSS, and JavaScript. It allows users to test their internet connection speed directly from their browser.
 
 Features
