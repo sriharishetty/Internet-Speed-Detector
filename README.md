@@ -22,3 +22,5 @@ How It Works
 
 Contributing
 Feel free to fork the repository and submit pull requests. For bug reports or feature requests, please open an issue.
+
+SampleSpeed.png
